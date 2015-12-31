@@ -1,12 +1,13 @@
-Let’s try to make a change to this second file.
+Cobra7 Setup 2 EXPANDED
 
 And yet another change.
 
 Ammend?
 
-Okay. Okay 2.
+Okay.
 
-Now a new Branch 1, tracking Master branch.
-(But this change NOT MADE on the branch).
+And Now What?
 
-Oh yes it was added afterward.
+Yes it does.
+
+Indeede Dee!
